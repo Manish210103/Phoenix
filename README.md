@@ -1,30 +1,29 @@
-#Twitter - The Social Media Platform
-Developed a Web Application where you can connect with people share your thoughts and interact with messages known as “tweets”. Registered users can post, like, and retweet tweets, but unregistered users can only read them.
+# Phoenix - The Social Media Platform
 
-Youtube Link: 
+Developed a web application called "Phoenix" where users can connect with each other, share their thoughts, and interact with messages known as "tweets." The application is exclusively available for users with a college email ID from PSG College. All user information and data are stored in a database using phpMyAdmin, and the application is built using PHP.
 
+**FrontEnd**: HTML5, CSS3, JavaScript
+**BackEnd**: PHP
+**Web Framework**: Bootstrap 4
+**Database**: MySQL
 
-FrontEnd: #html5 #css3 #javascript
-BackEnd: #php
-Web Framework: #bootstrap4
-DataBase: #mysql
+## Features
+1. **Login & Register**: Users can log in or register using their PSG College email ID.
+2. **Post Tweets**: Registered users can post tweets to share their thoughts and updates.
+3. **Like & Comment on Tweets**: Users can like and comment on tweets to engage with others.
+4. **Follow & Unfollow Users**: Users can follow and unfollow other users to stay connected.
+5. **Send Messages**: Users can send private messages to each other.
+6. **Notification System**: Users receive notifications for likes, comments, and new followers.
+7. **Mention User**: Users can mention other users in their tweets using the "@" symbol.
+8. **Add Hashtag**: Users can add hashtags to their tweets for categorization and discoverability.
+9. **Search User**: Users can search for other users on the platform.
+10. **Edit Profile**: Users can edit their profile information, such as name, bio, and profile picture.
 
-#Features :
-1. Login & Register
-2. Post Tweets
-3. Like & Comment on Tweets
-4. Follow & Unfollow users
-5. Send Messages
-6. Notification System
-7. Mention User
-8. Add Hashtag
-9. Search User
-10.Edit Profile
+## Phoenix-clone
+- Developed a platform called "Phoenix" that allows users with PSG College email IDs to connect and interact.
+- Implemented login and registration functionality, which verifies users with their college email ID and stores their data in the database.
+- Developed 10+ features, including posting tweets, liking and commenting on tweets, searching for users, and more.
+- Integrated XAMPP server and phpMyAdmin to manage the database and store/retrieve user data.
 
-#twitter #clone #frontend #backend #database #fullstack #webapplication #coding #programming #yashgaur #developer #project #websitedesigner #websitedeveloper #html #css
-
-# Twitter-clone
-• Developed a platform where users can connect with people share thoughts and interact with messages.
-• Built basic login and register functionality which collects data from users and stores in the database.
-• Implemented 10+ features including Post, Like, Comment, Search, and all the other social media functionalities.
-• Integrated XAMPP server and MySQL to store, retrieve, and manages data in the database.
+## Tags
+#html5 #css3 #javascript #php #bootstrap4 #mysql #webapplication #coding #programming #yashgaur #developer #project #websitedesigner #websitedeveloper #html #css
